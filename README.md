@@ -1,6 +1,6 @@
 hello-world
-lalal papapa 
-sssd
+lalal papapa; 
+sssd;
 
 s
 end.
